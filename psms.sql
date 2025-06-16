@@ -1,0 +1,1 @@
+create table users(userid INT primary key auto_increment,Names varchar(255),mails varchar(255),pswd varchar(255));
