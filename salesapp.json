@@ -1,0 +1,693 @@
+{
+  "customers": [
+    {
+      "cusCode": 1,
+      "cusName": "Customer 1",
+      "cusAddress": "62 Colombo Road",
+      "cusMobile": "0773664054",
+      "cusLoc": "Colombo",
+      "cusBal": 4951
+    },
+    {
+      "cusCode": 2,
+      "cusName": "Customer 2",
+      "cusAddress": "12 Colombo Road",
+      "cusMobile": "0779854299",
+      "cusLoc": "Colombo",
+      "cusBal": 2668
+    },
+    {
+      "cusCode": 3,
+      "cusName": "Customer 3",
+      "cusAddress": "87 Colombo Road",
+      "cusMobile": "0778900775",
+      "cusLoc": "Colombo",
+      "cusBal": 2324
+    },
+    {
+      "cusCode": 4,
+      "cusName": "Customer 4",
+      "cusAddress": "45 Colombo Road",
+      "cusMobile": "0775265522",
+      "cusLoc": "Colombo",
+      "cusBal": 4420
+    },
+    {
+      "cusCode": 5,
+      "cusName": "Customer 5",
+      "cusAddress": "14 Colombo Road",
+      "cusMobile": "0771009350",
+      "cusLoc": "Colombo",
+      "cusBal": 2417
+    },
+    {
+      "cusCode": 6,
+      "cusName": "Customer 6",
+      "cusAddress": "50 Colombo Road",
+      "cusMobile": "0776349156",
+      "cusLoc": "Colombo",
+      "cusBal": 4373
+    },
+    {
+      "cusCode": 7,
+      "cusName": "Customer 7",
+      "cusAddress": "95 Colombo Road",
+      "cusMobile": "0773834690",
+      "cusLoc": "Colombo",
+      "cusBal": 1943
+    },
+    {
+      "cusCode": 8,
+      "cusName": "Customer 8",
+      "cusAddress": "97 Colombo Road",
+      "cusMobile": "0774514388",
+      "cusLoc": "Colombo",
+      "cusBal": 4801
+    },
+    {
+      "cusCode": 9,
+      "cusName": "Customer 9",
+      "cusAddress": "31 Colombo Road",
+      "cusMobile": "0775722869",
+      "cusLoc": "Colombo",
+      "cusBal": 3003
+    },
+    {
+      "cusCode": 10,
+      "cusName": "Customer 10",
+      "cusAddress": "84 Colombo Road",
+      "cusMobile": "0778993023",
+      "cusLoc": "Colombo",
+      "cusBal": 4615
+    },
+    {
+      "cusCode": 11,
+      "cusName": "Customer 11",
+      "cusAddress": "95 Colombo Road",
+      "cusMobile": "0772863014",
+      "cusLoc": "Colombo",
+      "cusBal": 3286
+    },
+    {
+      "cusCode": 12,
+      "cusName": "Customer 12",
+      "cusAddress": "98 Colombo Road",
+      "cusMobile": "0776585409",
+      "cusLoc": "Colombo",
+      "cusBal": 2649
+    },
+    {
+      "cusCode": 13,
+      "cusName": "Customer 13",
+      "cusAddress": "60 Colombo Road",
+      "cusMobile": "0777244408",
+      "cusLoc": "Colombo",
+      "cusBal": 2190
+    },
+    {
+      "cusCode": 14,
+      "cusName": "Customer 14",
+      "cusAddress": "18 Colombo Road",
+      "cusMobile": "0773041203",
+      "cusLoc": "Colombo",
+      "cusBal": 2923
+    },
+    {
+      "cusCode": 15,
+      "cusName": "Customer 15",
+      "cusAddress": "22 Colombo Road",
+      "cusMobile": "0771291467",
+      "cusLoc": "Colombo",
+      "cusBal": 4723
+    },
+    {
+      "cusCode": 16,
+      "cusName": "Customer 16",
+      "cusAddress": "62 Colombo Road",
+      "cusMobile": "0778068798",
+      "cusLoc": "Colombo",
+      "cusBal": 3109
+    },
+    {
+      "cusCode": 17,
+      "cusName": "Customer 17",
+      "cusAddress": "40 Colombo Road",
+      "cusMobile": "0772575122",
+      "cusLoc": "Colombo",
+      "cusBal": 1325
+    },
+    {
+      "cusCode": 18,
+      "cusName": "Customer 18",
+      "cusAddress": "55 Colombo Road",
+      "cusMobile": "0771784666",
+      "cusLoc": "Colombo",
+      "cusBal": 4226
+    },
+    {
+      "cusCode": 19,
+      "cusName": "Customer 19",
+      "cusAddress": "40 Colombo Road",
+      "cusMobile": "0772638460",
+      "cusLoc": "Colombo",
+      "cusBal": 1317
+    },
+    {
+      "cusCode": 20,
+      "cusName": "Customer 20",
+      "cusAddress": "13 Colombo Road",
+      "cusMobile": "0777220991",
+      "cusLoc": "Colombo",
+      "cusBal": 4383
+    }
+  ],
+  "routes": [
+    {
+      "locaId": 1,
+      "locaName": "Colombo"
+    }
+  ],
+  "items": [
+    {
+      "itemCode": "P001",
+      "itemName": "Spaghetti",
+      "price": 250
+    },
+    {
+      "itemCode": "P002",
+      "itemName": "Macaroni",
+      "price": 220
+    },
+    {
+      "itemCode": "P003",
+      "itemName": "Penne",
+      "price": 270
+    }
+  ],
+  "salesreps": [
+    {
+      "empId": "SR001",
+      "empName": "Sales Rep 1"
+    },
+    {
+      "empId": "SR002",
+      "empName": "Sales Rep 2"
+    },
+    {
+      "empId": "SR003",
+      "empName": "Sales Rep 3"
+    },
+    {
+      "empId": "SR004",
+      "empName": "Sales Rep 4"
+    }
+  ],
+  "vehicles": [
+    {
+      "vhId": 1,
+      "vhNumber": "WP-1214"
+    },
+    {
+      "vhId": 2,
+      "vhNumber": "WP-1224"
+    },
+    {
+      "vhId": 3,
+      "vhNumber": "WP-1234"
+    },
+    {
+      "vhId": 4,
+      "vhNumber": "WP-1244"
+    }
+  ],
+  "registeredmobiles": [
+    {
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "contactNo": "0771214567",
+      "encryptKey": "encKey001",
+      "licControl": "LIC001",
+      "mobileId": "MB001",
+      "nickName": "Rep1",
+      "userCategory": "salesrep",
+      "uuId": "uuid001",
+      "vhNumber": "WP-1214"
+    },
+    {
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "contactNo": "0771224567",
+      "encryptKey": "encKey002",
+      "licControl": "LIC002",
+      "mobileId": "MB002",
+      "nickName": "Rep2",
+      "userCategory": "salesrep",
+      "uuId": "uuid002",
+      "vhNumber": "WP-1224"
+    },
+    {
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "contactNo": "0771234567",
+      "encryptKey": "encKey003",
+      "licControl": "LIC003",
+      "mobileId": "MB003",
+      "nickName": "Rep3",
+      "userCategory": "salesrep",
+      "uuId": "uuid003",
+      "vhNumber": "WP-1234"
+    },
+    {
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "contactNo": "0771244567",
+      "encryptKey": "encKey004",
+      "licControl": "LIC004",
+      "mobileId": "MB004",
+      "nickName": "Rep4",
+      "userCategory": "salesrep",
+      "uuId": "uuid004",
+      "vhNumber": "WP-1244"
+    }
+  ],
+  "invoices": [
+    {
+      "invNo": "INV001",
+      "balance": 204,
+      "cashReciept": 490,
+      "cusCode": 1,
+      "cusName": "Customer 1",
+      "cusRoute": "Colombo",
+      "invAmount": 4401,
+      "invDate": "2025-06-08",
+      "vhNumber": "WP-1214",
+      "invStatus": 1,
+      "previousBal": 140,
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "returnAmount": 28
+    },
+    {
+      "invNo": "INV002",
+      "balance": 317,
+      "cashReciept": 398,
+      "cusCode": 2,
+      "cusName": "Customer 2",
+      "cusRoute": "Colombo",
+      "invAmount": 1901,
+      "invDate": "2025-06-19",
+      "vhNumber": "WP-1214",
+      "invStatus": 1,
+      "previousBal": 290,
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "returnAmount": 52
+    },
+    {
+      "invNo": "INV003",
+      "balance": 241,
+      "cashReciept": 225,
+      "cusCode": 3,
+      "cusName": "Customer 3",
+      "cusRoute": "Colombo",
+      "invAmount": 2597,
+      "invDate": "2025-06-10",
+      "vhNumber": "WP-1214",
+      "invStatus": 1,
+      "previousBal": 499,
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "returnAmount": 88
+    },
+    {
+      "invNo": "INV004",
+      "balance": 709,
+      "cashReciept": 154,
+      "cusCode": 4,
+      "cusName": "Customer 4",
+      "cusRoute": "Colombo",
+      "invAmount": 3056,
+      "invDate": "2025-06-12",
+      "vhNumber": "WP-1214",
+      "invStatus": 1,
+      "previousBal": 487,
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "returnAmount": 53
+    },
+    {
+      "invNo": "INV005",
+      "balance": 933,
+      "cashReciept": 292,
+      "cusCode": 5,
+      "cusName": "Customer 5",
+      "cusRoute": "Colombo",
+      "invAmount": 3126,
+      "invDate": "2025-06-20",
+      "vhNumber": "WP-1214",
+      "invStatus": 1,
+      "previousBal": 238,
+      "empId": "SR001",
+      "empName": "Sales Rep 1",
+      "returnAmount": 96
+    },
+    {
+      "invNo": "INV006",
+      "balance": 678,
+      "cashReciept": 580,
+      "cusCode": 6,
+      "cusName": "Customer 6",
+      "cusRoute": "Colombo",
+      "invAmount": 4480,
+      "invDate": "2025-07-01",
+      "vhNumber": "WP-1224",
+      "invStatus": 1,
+      "previousBal": 303,
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "returnAmount": 97
+    },
+    {
+      "invNo": "INV007",
+      "balance": 410,
+      "cashReciept": 707,
+      "cusCode": 7,
+      "cusName": "Customer 7",
+      "cusRoute": "Colombo",
+      "invAmount": 2029,
+      "invDate": "2025-06-20",
+      "vhNumber": "WP-1224",
+      "invStatus": 1,
+      "previousBal": 323,
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "returnAmount": 66
+    },
+    {
+      "invNo": "INV008",
+      "balance": 306,
+      "cashReciept": 306,
+      "cusCode": 8,
+      "cusName": "Customer 8",
+      "cusRoute": "Colombo",
+      "invAmount": 4382,
+      "invDate": "2025-06-17",
+      "vhNumber": "WP-1224",
+      "invStatus": 1,
+      "previousBal": 244,
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "returnAmount": 62
+    },
+    {
+      "invNo": "INV009",
+      "balance": 338,
+      "cashReciept": 866,
+      "cusCode": 9,
+      "cusName": "Customer 9",
+      "cusRoute": "Colombo",
+      "invAmount": 2583,
+      "invDate": "2025-06-11",
+      "vhNumber": "WP-1224",
+      "invStatus": 1,
+      "previousBal": 291,
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "returnAmount": 50
+    },
+    {
+      "invNo": "INV010",
+      "balance": 195,
+      "cashReciept": 523,
+      "cusCode": 10,
+      "cusName": "Customer 10",
+      "cusRoute": "Colombo",
+      "invAmount": 3862,
+      "invDate": "2025-06-24",
+      "vhNumber": "WP-1224",
+      "invStatus": 1,
+      "previousBal": 325,
+      "empId": "SR002",
+      "empName": "Sales Rep 2",
+      "returnAmount": 76
+    },
+    {
+      "invNo": "INV011",
+      "balance": 687,
+      "cashReciept": 995,
+      "cusCode": 11,
+      "cusName": "Customer 11",
+      "cusRoute": "Colombo",
+      "invAmount": 3246,
+      "invDate": "2025-06-24",
+      "vhNumber": "WP-1234",
+      "invStatus": 1,
+      "previousBal": 157,
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "returnAmount": 99
+    },
+    {
+      "invNo": "INV012",
+      "balance": 638,
+      "cashReciept": 657,
+      "cusCode": 12,
+      "cusName": "Customer 12",
+      "cusRoute": "Colombo",
+      "invAmount": 4953,
+      "invDate": "2025-06-17",
+      "vhNumber": "WP-1234",
+      "invStatus": 1,
+      "previousBal": 392,
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "returnAmount": 85
+    },
+    {
+      "invNo": "INV013",
+      "balance": 523,
+      "cashReciept": 858,
+      "cusCode": 13,
+      "cusName": "Customer 13",
+      "cusRoute": "Colombo",
+      "invAmount": 2046,
+      "invDate": "2025-06-05",
+      "vhNumber": "WP-1234",
+      "invStatus": 1,
+      "previousBal": 102,
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "returnAmount": 12
+    },
+    {
+      "invNo": "INV014",
+      "balance": 659,
+      "cashReciept": 457,
+      "cusCode": 14,
+      "cusName": "Customer 14",
+      "cusRoute": "Colombo",
+      "invAmount": 4644,
+      "invDate": "2025-06-15",
+      "vhNumber": "WP-1234",
+      "invStatus": 1,
+      "previousBal": 481,
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "returnAmount": 77
+    },
+    {
+      "invNo": "INV015",
+      "balance": 751,
+      "cashReciept": 138,
+      "cusCode": 15,
+      "cusName": "Customer 15",
+      "cusRoute": "Colombo",
+      "invAmount": 3854,
+      "invDate": "2025-06-24",
+      "vhNumber": "WP-1234",
+      "invStatus": 1,
+      "previousBal": 252,
+      "empId": "SR003",
+      "empName": "Sales Rep 3",
+      "returnAmount": 33
+    },
+    {
+      "invNo": "INV016",
+      "balance": 358,
+      "cashReciept": 132,
+      "cusCode": 16,
+      "cusName": "Customer 16",
+      "cusRoute": "Colombo",
+      "invAmount": 2636,
+      "invDate": "2025-06-17",
+      "vhNumber": "WP-1244",
+      "invStatus": 1,
+      "previousBal": 303,
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "returnAmount": 100
+    },
+    {
+      "invNo": "INV017",
+      "balance": 865,
+      "cashReciept": 939,
+      "cusCode": 17,
+      "cusName": "Customer 17",
+      "cusRoute": "Colombo",
+      "invAmount": 1890,
+      "invDate": "2025-06-23",
+      "vhNumber": "WP-1244",
+      "invStatus": 1,
+      "previousBal": 7,
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "returnAmount": 71
+    },
+    {
+      "invNo": "INV018",
+      "balance": 666,
+      "cashReciept": 594,
+      "cusCode": 18,
+      "cusName": "Customer 18",
+      "cusRoute": "Colombo",
+      "invAmount": 4678,
+      "invDate": "2025-06-24",
+      "vhNumber": "WP-1244",
+      "invStatus": 1,
+      "previousBal": 101,
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "returnAmount": 56
+    },
+    {
+      "invNo": "INV019",
+      "balance": 458,
+      "cashReciept": 364,
+      "cusCode": 19,
+      "cusName": "Customer 19",
+      "cusRoute": "Colombo",
+      "invAmount": 2659,
+      "invDate": "2025-06-23",
+      "vhNumber": "WP-1244",
+      "invStatus": 1,
+      "previousBal": 71,
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "returnAmount": 79
+    },
+    {
+      "invNo": "INV020",
+      "balance": 293,
+      "cashReciept": 103,
+      "cusCode": 20,
+      "cusName": "Customer 20",
+      "cusRoute": "Colombo",
+      "invAmount": 4994,
+      "invDate": "2025-06-07",
+      "vhNumber": "WP-1244",
+      "invStatus": 1,
+      "previousBal": 122,
+      "empId": "SR004",
+      "empName": "Sales Rep 4",
+      "returnAmount": 50
+    }
+  ],
+  "vhloadin": [
+    {
+      "itemCode": "P001",
+      "itemName": "Spaghetti",
+      "vhNumber": "WP-1214",
+      "IDate": "2025-07-03",
+      "INo": "LOAD01-P001",
+      "IQty": 202
+    },
+    {
+      "itemCode": "P002",
+      "itemName": "Macaroni",
+      "vhNumber": "WP-1214",
+      "IDate": "2025-07-03",
+      "INo": "LOAD01-P002",
+      "IQty": 269
+    },
+    {
+      "itemCode": "P003",
+      "itemName": "Penne",
+      "vhNumber": "WP-1214",
+      "IDate": "2025-07-03",
+      "INo": "LOAD01-P003",
+      "IQty": 251
+    },
+    {
+      "itemCode": "P001",
+      "itemName": "Spaghetti",
+      "vhNumber": "WP-1224",
+      "IDate": "2025-07-03",
+      "INo": "LOAD02-P001",
+      "IQty": 255
+    },
+    {
+      "itemCode": "P002",
+      "itemName": "Macaroni",
+      "vhNumber": "WP-1224",
+      "IDate": "2025-07-03",
+      "INo": "LOAD02-P002",
+      "IQty": 140
+    },
+    {
+      "itemCode": "P003",
+      "itemName": "Penne",
+      "vhNumber": "WP-1224",
+      "IDate": "2025-07-03",
+      "INo": "LOAD02-P003",
+      "IQty": 195
+    },
+    {
+      "itemCode": "P001",
+      "itemName": "Spaghetti",
+      "vhNumber": "WP-1234",
+      "IDate": "2025-07-03",
+      "INo": "LOAD03-P001",
+      "IQty": 191
+    },
+    {
+      "itemCode": "P002",
+      "itemName": "Macaroni",
+      "vhNumber": "WP-1234",
+      "IDate": "2025-07-03",
+      "INo": "LOAD03-P002",
+      "IQty": 137
+    },
+    {
+      "itemCode": "P003",
+      "itemName": "Penne",
+      "vhNumber": "WP-1234",
+      "IDate": "2025-07-03",
+      "INo": "LOAD03-P003",
+      "IQty": 173
+    },
+    {
+      "itemCode": "P001",
+      "itemName": "Spaghetti",
+      "vhNumber": "WP-1244",
+      "IDate": "2025-07-03",
+      "INo": "LOAD04-P001",
+      "IQty": 289
+    },
+    {
+      "itemCode": "P002",
+      "itemName": "Macaroni",
+      "vhNumber": "WP-1244",
+      "IDate": "2025-07-03",
+      "INo": "LOAD04-P002",
+      "IQty": 207
+    },
+    {
+      "itemCode": "P003",
+      "itemName": "Penne",
+      "vhNumber": "WP-1244",
+      "IDate": "2025-07-03",
+      "INo": "LOAD04-P003",
+      "IQty": 254
+    }
+  ]
+}
